@@ -1,1 +1,1 @@
-# 3-d_mode
+# 3d_model
